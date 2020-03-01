@@ -1,0 +1,20 @@
+--2019-11-23 20:34:56--  https://query.data.world/s/clm2oc6dfn46svchjz2rzqbatr3kw5
+Resolving query.data.world (query.data.world)... 54.88.60.94, 52.87.58.121, 54.164.63.247
+Connecting to query.data.world (query.data.world)|54.88.60.94|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://download.data.world/file_download/tdreabing/nuclear-weapon-explosions/nuclear_weapon_explosions_1945-1998.csv?auth=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwcm9kLXVzZXItY2xpZW50OnR5a2FuZ2xlciIsImlzcyI6ImFnZW50OnR5a2FuZ2xlcjo6ODgzNDhlMzUtYmU2OC00ZWFhLTg1ZjgtN2NhNjFiZTViYjU1IiwiaWF0IjoxNTc0NTY5OTQyLCJyb2xlIjpbInVzZXIiLCJ1c2VyX2FwaV9hZG1pbiIsInVzZXJfYXBpX3JlYWQiLCJ1c2VyX2FwaV93cml0ZSJdLCJnZW5lcmFsLXB1cnBvc2UiOmZhbHNlLCJ1cmwiOiIxNDhmNmM0OTQ3YzYxZDkyNjI3NDM1ODI1YjIwOTliZGNiMWZjODJhIn0.fdigzslx-0QbYQ5nB3Ui3g3EJ-Q6q9RnpYcNf260I8hBPkUVWUWLCR-moIbcj9iy-2b9Y_uPK_eR_xziDyI63A [following]
+--2019-11-23 20:34:56--  https://download.data.world/file_download/tdreabing/nuclear-weapon-explosions/nuclear_weapon_explosions_1945-1998.csv?auth=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwcm9kLXVzZXItY2xpZW50OnR5a2FuZ2xlciIsImlzcyI6ImFnZW50OnR5a2FuZ2xlcjo6ODgzNDhlMzUtYmU2OC00ZWFhLTg1ZjgtN2NhNjFiZTViYjU1IiwiaWF0IjoxNTc0NTY5OTQyLCJyb2xlIjpbInVzZXIiLCJ1c2VyX2FwaV9hZG1pbiIsInVzZXJfYXBpX3JlYWQiLCJ1c2VyX2FwaV93cml0ZSJdLCJnZW5lcmFsLXB1cnBvc2UiOmZhbHNlLCJ1cmwiOiIxNDhmNmM0OTQ3YzYxZDkyNjI3NDM1ODI1YjIwOTliZGNiMWZjODJhIn0.fdigzslx-0QbYQ5nB3Ui3g3EJ-Q6q9RnpYcNf260I8hBPkUVWUWLCR-moIbcj9iy-2b9Y_uPK_eR_xziDyI63A
+Resolving download.data.world (download.data.world)... 54.164.63.247, 52.87.58.121, 54.88.60.94
+Connecting to download.data.world (download.data.world)|54.164.63.247|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/csv]
+Saving to: 'clm2oc6dfn46svchjz2rzqbatr3kw5'
+
+     0K .......... .......... .......... .......... ..........  286K
+    50K .......... .......... .......... .......... ..........  482K
+   100K .......... .......... .......... .......... .......... 3.26M
+   150K .......... .......... .......... .......... .......... 5.74M
+   200K .......                                                2.82M=0.3s
+
+2019-11-23 20:34:57 (681 KB/s) - 'clm2oc6dfn46svchjz2rzqbatr3kw5' saved [212299]
+
